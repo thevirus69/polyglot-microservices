@@ -1,0 +1,7 @@
+target/
+.mvn/
+*.class
+*.jar
+.git
+.gitignore
+Dockerfile
